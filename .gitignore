@@ -1,0 +1,7 @@
+*.csv
+*.parquet
+*.db
+*.env
+config/database.ini
+.venv/
+__pycache__/
